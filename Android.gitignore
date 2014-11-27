@@ -28,6 +28,6 @@ proguard/
 *.log
 
 # Android Studio
-.idea/workspace.xml
+.idea/
 import-summary.txt
 
